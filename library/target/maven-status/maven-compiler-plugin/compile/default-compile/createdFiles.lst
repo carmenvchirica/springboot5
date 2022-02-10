@@ -1,0 +1,5 @@
+ch/springframework/spring5webapp/repositories/AuthorRepository.class
+ch/springframework/spring5webapp/controllers/AuthorController.class
+ch/springframework/spring5webapp/services/AuthorService.class
+ch/springframework/spring5webapp/repositories/BookRepository.class
+ch/springframework/spring5webapp/Spring5webappApplication.class

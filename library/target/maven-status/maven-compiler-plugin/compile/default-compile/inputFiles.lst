@@ -1,0 +1,9 @@
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/controllers/AuthorController.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/repositories/AuthorRepository.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/repositories/BookRepository.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/entities/Book.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/services/AuthorService.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/entities/Author.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/services/BookService.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/controllers/BookController.java
+/home/carmen/workspaces/udemy-workspace/spring5webapp/src/main/java/ch/springframework/spring5webapp/Spring5webappApplication.java
